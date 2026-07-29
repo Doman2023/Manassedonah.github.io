@@ -18,7 +18,7 @@ export default function Projects() {
       technologies: ['FIGMA','UX/UI','Wireframe'],
       icon: Play,
       gradient: 'from-purple-500 to-pink-500',
-      demoUrl: '#',
+      demoUrl: 'https://www.figma.com/proto/eNV1cLQQx2Fxl3sVOa5EXU/Portfolio?node-id=232-2&p=f&t=H1fr6VS3vqzqc7J0-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=232%3A2',
       githubUrl: 'https://github.com/manassejm/soundaddict',
     }
   ];
