@@ -26,22 +26,22 @@ export default function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'manasse.donah@example.com',
-      href: 'mailto:manasse.donah@example.com',
+      value: 'donahmanasse8@gmail.com',
+      href: 'mailto:donahmanasse8@gmail.com',
       gradient: 'from-blue-500 to-cyan-500',
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/manasse-donah',
-      href: 'https://linkedin.com/in/manasse-donah',
+      value: 'www.linkedin.com/in/donah-manasse-57b592260',
+      href: 'www.linkedin.com/in/donah-manasse-57b592260',
       gradient: 'from-blue-600 to-blue-700',
     },
     {
       icon: Github,
       label: 'GitHub',
-      value: 'github.com/manassejm',
-      href: 'https://github.com/manassejm',
+      value: 'https://github.com/ManasseDonah',
+      href: 'https://github.com/ManasseDonah',
       gradient: 'from-gray-700 to-gray-900',
     },
     {
